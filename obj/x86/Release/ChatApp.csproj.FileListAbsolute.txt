@@ -1,0 +1,8 @@
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\ChatApp\ChatApp\bin\Release\ChatApp.exe
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\ChatApp\ChatApp\bin\Release\ChatApp.pdb
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\ChatApp\ChatApp\obj\x86\Release\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\ChatApp\ChatApp\obj\x86\Release\ChatApp.ChatApp.resources
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\ChatApp\ChatApp\obj\x86\Release\ChatApp.Properties.Resources.resources
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\ChatApp\ChatApp\obj\x86\Release\ChatApp.csproj.GenerateResource.Cache
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\ChatApp\ChatApp\obj\x86\Release\ChatApp.exe
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\ChatApp\ChatApp\obj\x86\Release\ChatApp.pdb
